@@ -1,0 +1,14 @@
+/Users/dtchuindjo/kmeans/target/debug/deps/csv-fb45ed47e91cbb09.rmeta: /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/lib.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/byte_record.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/cookbook.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/deserializer.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/error.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/reader.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/serializer.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/string_record.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/tutorial.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/writer.rs
+
+/Users/dtchuindjo/kmeans/target/debug/deps/csv-fb45ed47e91cbb09.d: /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/lib.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/byte_record.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/cookbook.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/deserializer.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/error.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/reader.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/serializer.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/string_record.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/tutorial.rs /Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/writer.rs
+
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/lib.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/byte_record.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/cookbook.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/deserializer.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/error.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/reader.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/serializer.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/string_record.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/tutorial.rs:
+/Users/dtchuindjo/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/writer.rs:
